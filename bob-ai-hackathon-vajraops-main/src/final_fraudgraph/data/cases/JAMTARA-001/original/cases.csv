@@ -1,0 +1,2 @@
+case_id,fir_number,complaint_date,police_station,incident_type,reported_loss_inr,description
+CASE001,FIR-2026-0142,2026-09-09,Cyber Cell,SIM_SWAP,95000.00,Synthetic demo case: SIM swap followed by UPI mule layering.
